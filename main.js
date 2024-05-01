@@ -54,6 +54,11 @@ if (name.length > 7) {
     }
 } else {
     alert('Access denied');
+    
 }
+if (name === 'Alex Addams') {
+    alert('Access denied');
+}
+
 // let str = 'my name is ozodbek';
 // console.log(str.split(' '));
